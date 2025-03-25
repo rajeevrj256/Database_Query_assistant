@@ -23,7 +23,7 @@ AI-powered tool that converts **natural language into optimized SQL** for seamle
 
 ## **Repositories**  
 - **Frontend Repository:** [🔗 Frontend Repo](https://github.com/rajeevrj256/AI_Powered_Database_Query_Assistant)  
-- **PostgreSQL Backend:** [🔗 PostgreSQL Repo](https://github.com/rajeevrj256/AI_Powered_Database_Manager_SQL)  
+- **PostgreSQL Backend:** [🔗 PostgreSQL Repo](https://github.com/rajeevrj256/Database_Manager_with_PostgreSQL)  
 - **MySQL Backend:** [🔗 MySQL Repo](https://github.com/rajeevrj256/Database_manager_With_Mysql)  
 - **Oracle Backend:** [🔗 Oracle Repo](https://github.com/rajeevrj256/Database_manager_with_orcale)  
 
