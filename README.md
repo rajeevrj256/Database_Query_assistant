@@ -4,7 +4,7 @@
 AI-powered tool that converts **natural language into optimized SQL** for seamless database interaction. Supports **PostgreSQL, MySQL, and Oracle**, enabling users to retrieve data without writing SQL queries.  
 
 ## **Live Deployment**  
-🔗 **Try the Live App Here:** [**Deployed Link**](https://ai-powered-database-manager-sql.onrender.com/)  
+🔗 **Try the Live App Here:** [**Deployed Link**](https://ai-powered-database-query-assistant.vercel.app/)  
 
 ## **Features**  
 - **Multi-Database Support** – Handles **PostgreSQL, MySQL, and Oracle** via independent backends.  
